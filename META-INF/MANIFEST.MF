@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ gson-2.8.5.jar jna-4.5.2.jar jna-platform-4.5.2.ja
+ r linux-common-0.1.1.jar linux-i2c.jar linux-io-0.0.3.jar sqlite-jdbc
+ -3.23.1.jar hamcrest-core-1.3.jar jcommon-1.0.23.jar jfreechart-1.0.1
+ 9-experimental.jar jfreechart-1.0.19-swt.jar jfreechart-1.0.19.jar jf
+ reesvg-2.0.jar junit-4.11.jar orsoncharts-1.4-eval-nofx.jar orsonpdf-
+ 1.6-eval.jar servlet.jar swtgraphics2d.jar pi4j-core.jar pi4j-device.
+ jar pi4j-gpio-extension.jar pi4j-core_2.jar pi4j-device_2.jar pi4j-gp
+ io-extension_2.jar linux-common-0.1.1-javadoc.jar linux-common-0.1.1_
+ 2.jar linux-i2c_2.jar linux-io-0.0.3-javadoc.jar linux-io-0.0.3_2.jar
+Class-Path: .
+Rsrc-Main-Class: com.automec.Launcher
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
